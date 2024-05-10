@@ -1,5 +1,5 @@
 ---
-title: Regulament General
+title: Regulament General TESTEST
 ---
 
 <!-- ![poza_regulament](https://i.imgur.com/Pi4NYYG.png) -->
